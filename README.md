@@ -23,7 +23,7 @@ Data Source : [Data](https://www.kaggle.com/c/FacebookRecruiting/data)
 
 ![alt text](analysis2.png "subgraph")
 
-- After analysis to train the model , manual features were added from the data of connected edges . Features like Jaccard , Cosine distance , Page Ranking , Shorted Path , Adar Index , Following back , etc were added . So that model will learn the information of graph . 
+- After analysis to train the model , manual features were added from the data of connected edges . Features like Jaccard , Cosine distance , Page Ranking , Shortest Path , Adar Index , Following back , etc were added . So that model will learn the information of graph . 
 - For Supervised Learning , bad edges were added based on the distance of shortest path . 
 
 ## Approach 2 
